@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; showcases</title>
+	<atom:link href="http://www.scrollstudios.com/tags/showcases/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Piero Martinello en Siteinpsire</title>
+		<link>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/</link>
+		<comments>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 16:13:31 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[showcases]]></category>
+
+		<guid isPermaLink="false">http://www.scrollstudios.com/?p=306</guid>
+		<description><![CDATA[Nuestra web para el fotógrafo Piero Martinello en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor.]]></description>
+			<content:encoded><![CDATA[<p>Nuestra web para el fotógrafo <a rel="nofollow" href="http://www.pieromartinello.com" target="_blank">Piero Martinello</a> en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor. Mirala <a rel="nofollow" href="http://siteinspire.net/showcase/view/2078/piero-martinello" target="_blank">aqui</a></p>
+<p><img class="alignnone size-full wp-image-307" title="piero-siteinspire" src="http://www.scrollstudios.com/wp-content/uploads/2010/09/piero-siteinspire.jpg" alt="" width="679" height="572" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Publican www.guillermobrotons.com en SiteInspire</title>
+		<link>http://www.scrollstudios.com/projects/guillermo-brotons-website-siteinspire/</link>
+		<comments>http://www.scrollstudios.com/projects/guillermo-brotons-website-siteinspire/#comments</comments>
+		<pubDate>Thu, 15 Apr 2010 19:42:52 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[showcases]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/scrollstudios/?p=159</guid>
+		<description><![CDATA[Siteinspire, un excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor, ha publicado el trabajo que realizamos para el diseñador gráfico Guillermo Brotons. Ver publicación aquí.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://siteinspire.net" rel="nofollow" target="_blank">Siteinspire</a>, un excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense <a href="http://kulor.net/" target="_blank" rel="nofollow">Kulor</a>,  ha publicado el trabajo que realizamos para el diseñador gráfico <a href="http://www.guillermobrotons.com" target="_blank" rel="nofollow">Guillermo Brotons</a>.</p>
+<p>Ver publicación <a href="http://siteinspire.net/showcase/view/guillermo_brotons">aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/guillermo-brotons-website-siteinspire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

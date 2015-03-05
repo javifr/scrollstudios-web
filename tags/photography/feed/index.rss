@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; photography</title>
+	<atom:link href="http://www.scrollstudios.com/tags/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Piero Martinello en Siteinpsire</title>
+		<link>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/</link>
+		<comments>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 16:13:31 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[showcases]]></category>
+
+		<guid isPermaLink="false">http://www.scrollstudios.com/?p=306</guid>
+		<description><![CDATA[Nuestra web para el fotógrafo Piero Martinello en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor.]]></description>
+			<content:encoded><![CDATA[<p>Nuestra web para el fotógrafo <a rel="nofollow" href="http://www.pieromartinello.com" target="_blank">Piero Martinello</a> en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor. Mirala <a rel="nofollow" href="http://siteinspire.net/showcase/view/2078/piero-martinello" target="_blank">aqui</a></p>
+<p><img class="alignnone size-full wp-image-307" title="piero-siteinspire" src="http://www.scrollstudios.com/wp-content/uploads/2010/09/piero-siteinspire.jpg" alt="" width="679" height="572" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Empezamos a trabajar en un nuevo proyecto para la interiorista Fernanda Gonzalez</title>
+		<link>http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/</link>
+		<comments>http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/#comments</comments>
+		<pubDate>Sun, 18 Apr 2010 19:43:26 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[photography]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/scrollstudios/blog/fotografias-para-la-interiorista-fernanda-gonzalez/</guid>
+		<description><![CDATA[Estamos trabajando en nuevo proyecto, se trata de la identidad visual y todo el website de la interiorista Barcelonesa Fernanda Gonzalez. Fernanda cuenta con trabajos muy variados, proyectos de interiorismo que van desde pequeñas viviendas a chalets de alto standing pasando por la decoración de grandes empresas multinacionales. Para poder desarrollar el concepto general hemos [...]]]></description>
+			<content:encoded><![CDATA[<p>Estamos trabajando en nuevo proyecto, se trata de la identidad visual y todo el website de la interiorista Barcelonesa Fernanda Gonzalez. Fernanda  cuenta con trabajos muy variados, proyectos de interiorismo que van desde pequeñas viviendas a chalets de alto standing pasando por la decoración de grandes empresas multinacionales.</p>
+<p>Para poder desarrollar el concepto general hemos querido comprender y conocer su trabajo, hemos realizado en la primera fase las fotografías de sus trabajos más significativos.</p>
+<p>Aquí podéis ver un par de las fotos que formaran parte de su portfolio.</p>
+<p><img class="alignnone size-full wp-image-164" title="scroll-fernanda-gonzalez" src="http://www.scrollstudios.com/wp-content/uploads/2010/04/scroll-fernanda-gonzalez.jpg" alt="" width="556" height="371" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

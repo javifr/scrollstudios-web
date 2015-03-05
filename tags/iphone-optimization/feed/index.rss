@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; iphone optimization</title>
+	<atom:link href="http://www.scrollstudios.com/tags/iphone-optimization/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Sites optimizados para móviles</title>
+		<link>http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/</link>
+		<comments>http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/#comments</comments>
+		<pubDate>Sun, 23 Oct 2011 16:42:46 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[iphone optimization]]></category>
+
+		<guid isPermaLink="false">http://www.scrollstudios.com/?p=413</guid>
+		<description><![CDATA[Nuestros clientes Hook Management, Sebastian Liste y Cyan entendieron que cada vez más usuarios navegan por internet con su smartphone o tablet. Por esta razón nos pidieron optimizar sus sites para dispositivos móviles, con especial atención al Iphone...]]></description>
+			<content:encoded><![CDATA[<p>Nuestros clientes <a rel="nofollow" href="http://www.hookmanagement.net" target="_blank">Hook Management</a>, <a rel="nofollow" href="http://www.sebastianliste.com" target="_blank">Sebastian Liste</a> y <a rel="nofollow" href="http://www.somoscyan.com" target="_blank">Cyan</a> entendieron que el número de usuarios que navegan por internet con su <strong>smartphone</strong> o <strong>tablet</strong> es ya igual o en algunas ocasiones superior al número de usuarios que navegan en su ordenador de escritorio. Por esta razón nos pidieron optimizar sus sites para dispositivos móviles, con especial atención al <strong>iPhone</strong> aunque sin dejar de lado todos los dispositivos <strong>Android</strong> o <strong>Blackberries</strong> de última generación.</p>
+<p>Para mejorar la experiencia del usuario en este tipo de dispositivos: reducimos el contenido de sus web, evitamos incómodos zooms al navegar, simplificamos el layout y tuvimos en cuenta el carácter táctil de los dispositivos.</p>
+<p>Un aspecto también interesante es que la optimización para dispositivos móviles realizada no implica alterar el flujo de publicación de los contenidos de nuestros clientes y tampoco implica mantener una site nuevo en paralelo, ya que se trata siempre del mismo site adaptándose a los diferentes dispositivos de forma inteligente.</p>
+<p><img class="alignnone size-full wp-image-479" title="scroll-iphone2" src="http://www.scrollstudios.com/wp-content/uploads/2011/10/scroll-iphone2.jpg" alt="" width="745" height="1505" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

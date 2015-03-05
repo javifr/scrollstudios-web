@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; showcases</title>
+	<atom:link href="http://www.scrollstudios.com/tags/showcases/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Piero Martinello published at Siteinspire</title>
+		<link>http://www.scrollstudios.com/en/projects/piero-martinello-en-siteinpsire/</link>
+		<comments>http://www.scrollstudios.com/en/projects/piero-martinello-en-siteinpsire/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 16:13:31 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[showcases]]></category>
+
+		<guid isPermaLink="false">http://www.scrollstudios.com/?p=306</guid>
+		<description><![CDATA[Our website for the photographer Piero Martinello featured by Siteinspire, an excellent showcase of inspiring web design and CSS gallery designed and developed by the london based studio Kulor.]]></description>
+			<content:encoded><![CDATA[<p><p>Our website for the photographer <a rel="nofollow" href="http://www.pieromartinello.com" target="_blank">Piero Martinello</a> featured by Siteinspire, an excellent showcase of inspiring web design and CSS gallery designed and developed by the London based studio Kulor. Check it out <a rel="nofollow" href="http://siteinspire.net/showcase/view/2078/piero-martinello" target="_blank">here</a>.
+</p>
+<p><img class="alignnone size-full wp-image-307" title="piero-siteinspire" src="http://www.scrollstudios.com/wp-content/uploads/2010/09/piero-siteinspire.jpg" alt="" width="679" height="572" /></p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/en/projects/piero-martinello-en-siteinpsire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>www.guillermobrotons.com published at SiteInspire</title>
+		<link>http://www.scrollstudios.com/en/projects/guillermo-brotons-website-siteinspire/</link>
+		<comments>http://www.scrollstudios.com/en/projects/guillermo-brotons-website-siteinspire/#comments</comments>
+		<pubDate>Thu, 15 Apr 2010 19:42:52 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[showcases]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/scrollstudios/?p=159</guid>
+		<description><![CDATA[Siteinspire, an excellent showcase of inspiring web design and CSS gallery designed and developed by the london based studio Kulor, has published a project we did for the graphic designer Guillermo Brotons. View publication here.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.siteinspire.net/" target="_blank" rel="nofollow">Siteinspire</a>, an excellent showcase of inspiring web design and CSS gallery designed and developed by the london based studio <a href="http://www.kulor.net" target="_blank" rel="nofollow">Kulor</a>, has published a project we did for the graphic designer Guillermo Brotons.</p>
+<p>View publication <a href="http://siteinspire.net/showcase/view/guillermo_brotons" rel="nofollow" target="_blank">here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/en/projects/guillermo-brotons-website-siteinspire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

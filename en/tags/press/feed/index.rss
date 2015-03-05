@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; press</title>
+	<atom:link href="http://www.scrollstudios.com/tags/press/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Flat-a-porter at the Expansión economy Spanish journal</title>
+		<link>http://www.scrollstudios.com/en/projects/flat-a-porter-expansion/</link>
+		<comments>http://www.scrollstudios.com/en/projects/flat-a-porter-expansion/#comments</comments>
+		<pubDate>Mon, 12 Apr 2010 19:39:57 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[press]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/scrollstudios/blog/flat-a-porter-en-el-periodico-expansion/</guid>
+		<description><![CDATA[A big part of our job is to guide our clients to make the right steps in the internet, helping them to make things better in the medium that we best know and love and where we can contribute with our know-how. That is why we are delighted to hear good news from the clients [...]]]></description>
+			<content:encoded><![CDATA[<p>A big part of our job is to guide our clients to make the right steps in the internet, helping them to make things better in the medium that we best know and love and where we can contribute with our know-how.</p>
+<p>That is why we are delighted to hear good news from the clients we are working for. In this case is <a href="http://www.flat-a-porter.com" rel="nofollow" target="_blank">Flat-a-porter</a>, a company based in Barcelona and London that has been created to make your life easier setting up your flat and even finding it for you. This business has been profiled in the Spanish newspaper Expansion because of their successful course and business model.</p>
+<p><a href="http://www.expansion.com/2010/03/15/empresas/minegocio/1268682713.html" target="_blank" rel="nofollow">Here</a> you can read the article in digital format.</p>
+<p>For Flat-a-porter, we worked on their corporate website and visual identity. </p>
+<p><img src="http://www.scrollstudios.com/wp-content/uploads/2010/04/scroll-flat-expansion.jpg" alt="" title="scroll-flat-expansion" width="400" height="399" class="alignnone size-full wp-image-168" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/en/projects/flat-a-porter-expansion/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

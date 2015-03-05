@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; friends</title>
+	<atom:link href="http://www.scrollstudios.com/tags/friends/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Piero Martinello y su nuevo trabajo para Benetton</title>
+		<link>http://www.scrollstudios.com/projects/piero-martinello-benetton/</link>
+		<comments>http://www.scrollstudios.com/projects/piero-martinello-benetton/#comments</comments>
+		<pubDate>Fri, 16 Apr 2010 19:34:45 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[friends]]></category>
+
+		<guid isPermaLink="false">http://localhost:8888/scrollstudios/2010/03/16/sesion-fotografica-con-piero-martinello-para-el-grupo-cyan-p/</guid>
+		<description><![CDATA[De nuevo buenas noticias de nuestros clientes. Piero Martinello, el joven fotógrafo italiano, para el que trabajamos haciéndonos cargo de su web portfolio y de su porftolio editorial, después de trabajar extensivamente para la revista Colors y diferentes campañas sociales, acaba de realizar estas fotos en París para la campaña Internacional de Benetton: It’s My [...]]]></description>
+			<content:encoded><![CDATA[<p>De nuevo buenas noticias de nuestros clientes. <a href="http://www.pieromartinello.com">Piero Martinello</a>, el joven fotógrafo italiano, para el que trabajamos haciéndonos cargo de su web portfolio y de su porftolio editorial, después de trabajar extensivamente para la revista Colors y diferentes campañas sociales, acaba de realizar estas fotos en París para la campaña Internacional de Benetton: It’s My time.</p>
+<p><img src="http://www.scrollstudios.com/wp-content/uploads/2010/03/scroll-piero-martinello2.jpg" alt="" title="scroll-piero-martinello" width="400" height="464" class="alignnone size-full wp-image-171" /></p>
+<p>Podéis ver más fotos de la misma serie y de otros proyectos comerciales de Piero <a href="http://www.pieromartinello.com/projects/commercial/" rel="nofollow" target="_blank">aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/piero-martinello-benetton/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="es"
+  xml:base="http://www.scrollstudios.com/wp-atom.php"
+   >
+	<title type="text">Scroll</title>
+	<subtitle type="text">Just another WordPress weblog</subtitle>
+
+	<updated>2014-08-05T11:45:07Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.scrollstudios.com" />
+	<id>http://www.scrollstudios.com/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="http://www.scrollstudios.com/feed/atom/" />
+
+	
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Hook Management]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/hook-management/" />
+		<id>http://www.scrollstudios.com/?p=487</id>
+		<updated>2011-10-31T11:34:43Z</updated>
+		<published>2011-10-31T10:13:38Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog" /><category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="desarrollo web" /><category scheme="http://www.scrollstudios.com" term="Diseño de interficies" /><category scheme="http://www.scrollstudios.com" term="diseño gráfico" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="projects-entries" /><category scheme="http://www.scrollstudios.com" term="wireframes" />		<summary type="html"><![CDATA[Hook Management se fundó hace 28 años con el fin de promover, representar y producir a artistas y grupos musicales. En estas casi tres décadas de trabajo, su apuesta ha sido siempre la de impulsar la buena música. ]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/hook-management/"><![CDATA[<p>Amaral, Cyan, Dinero, Klaus &amp; Kinski y La Bien Querida entre otros son bandas representadas por este grupo de Management con base en Madrid. Hook Management se fundó hace 28 años con el fin de promover, representar y producir a artistas y grupos musicales. En estas casi tres décadas de trabajo, su apuesta ha sido siempre la de impulsar la buena música.</p>
+<p>Cuando nos encargaron su website, pusimos especial atención en que estuviera optimizada para dispositivos móviles, con especial atención al <strong>iPhone</strong> aunque sin dejar de lado todos los dispositivos <strong>Android</strong> o <strong>Blackberries</strong> de última generación. Para mejorar la experiencia del usuario en este tipo de dispositivos:  reducimos el contenido de su web, evitamos incómodos zooms al navegar,  simplificamos el layout y tuvimos en cuenta el carácter táctil de los  dispositivos.</p>
+<p>Un aspecto también interesante es que la optimización para  dispositivos móviles realizada no implica alterar el flujo de  publicación de los contenidos de nuestros clientes y tampoco implica  mantener una site nuevo en paralelo, ya que se trata siempre del mismo  site adaptándose a los diferentes dispositivos de forma inteligente.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/hook-management/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/hook-management/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Wonderland magazine]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/wonderland-magazine/" />
+		<id>http://www.scrollstudios.com/?p=497</id>
+		<updated>2011-10-31T11:38:25Z</updated>
+		<published>2011-10-31T09:26:07Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog" /><category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="integración social media" /><category scheme="http://www.scrollstudios.com" term="projects-entries" />		<summary type="html"><![CDATA[Wonderland es una de las revistas de moda más importantes del Reino Unido. Para su website querían algo muy visual y fácil de usar para presentar las diferentes notícias relacionadas con Moda, Entretenimiento, Música, Ocio y Video.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/wonderland-magazine/"><![CDATA[<p>Con sus oficinas en Notting Hill, Wonderland es una de las revistas de moda más importantes del Reino Unido. Para su website querían algo muy visual y fácil de usar para presentar las diferentes notícias relacionadas con Moda, Entretenimiento, Música, Ocio y Video. La integración del social media es también muy importante así los diferentes usuarios pueden compartir y comentar cada post.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/wonderland-magazine/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/wonderland-magazine/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Sites optimizados para móviles]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/" />
+		<id>http://www.scrollstudios.com/?p=413</id>
+		<updated>2011-10-25T18:16:04Z</updated>
+		<published>2011-10-23T16:42:46Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog-entries" /><category scheme="http://www.scrollstudios.com" term="clients" /><category scheme="http://www.scrollstudios.com" term="iphone optimization" />		<summary type="html"><![CDATA[Nuestros clientes Hook Management, Sebastian Liste y Cyan entendieron que cada vez más usuarios navegan por internet con su smartphone o tablet. Por esta razón nos pidieron optimizar sus sites para dispositivos móviles, con especial atención al Iphone...]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/"><![CDATA[<p>Nuestros clientes <a rel="nofollow" href="http://www.hookmanagement.net" target="_blank">Hook Management</a>, <a rel="nofollow" href="http://www.sebastianliste.com" target="_blank">Sebastian Liste</a> y <a rel="nofollow" href="http://www.somoscyan.com" target="_blank">Cyan</a> entendieron que el número de usuarios que navegan por internet con su <strong>smartphone</strong> o <strong>tablet</strong> es ya igual o en algunas ocasiones superior al número de usuarios que navegan en su ordenador de escritorio. Por esta razón nos pidieron optimizar sus sites para dispositivos móviles, con especial atención al <strong>iPhone</strong> aunque sin dejar de lado todos los dispositivos <strong>Android</strong> o <strong>Blackberries</strong> de última generación.</p>
+<p>Para mejorar la experiencia del usuario en este tipo de dispositivos: reducimos el contenido de sus web, evitamos incómodos zooms al navegar, simplificamos el layout y tuvimos en cuenta el carácter táctil de los dispositivos.</p>
+<p>Un aspecto también interesante es que la optimización para dispositivos móviles realizada no implica alterar el flujo de publicación de los contenidos de nuestros clientes y tampoco implica mantener una site nuevo en paralelo, ya que se trata siempre del mismo site adaptándose a los diferentes dispositivos de forma inteligente.</p>
+<p><img class="alignnone size-full wp-image-479" title="scroll-iphone2" src="http://www.scrollstudios.com/wp-content/uploads/2011/10/scroll-iphone2.jpg" alt="" width="745" height="1505" /></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/sites-optimizados-para-iphone/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>scroll</name>
+					</author>
+		<title type="html"><![CDATA[Gaes Visión]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/gaes-vision/" />
+		<id>http://www.scrollstudios.com/?p=530</id>
+		<updated>2012-10-25T23:11:06Z</updated>
+		<published>2011-10-08T21:50:16Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog" /><category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="desarrollo web" /><category scheme="http://www.scrollstudios.com" term="Diseño de interficies" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="integración social media" /><category scheme="http://www.scrollstudios.com" term="projects-entries" /><category scheme="http://www.scrollstudios.com" term="wireframes" />		<summary type="html"><![CDATA[Art direction, web design and web programming for Gaes Visión&#8217;s site. Part of the Gaes group, this is a new optical and retail center in Barcelona. Photography by Laia Abril and illustration by Mikel Jaso. The site will be online on the 1st December 2012.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/gaes-vision/"><![CDATA[<p>Art direction, web design and web programming for Gaes Visión&#8217;s site. Part of the Gaes group, this is a new optical and retail center in Barcelona. Photography by Laia Abril and illustration by Mikel Jaso. The site will be online on the 1st December 2012.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/gaes-vision/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/gaes-vision/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>scroll</name>
+					</author>
+		<title type="html"><![CDATA[17 Triggers]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/17-triggers/" />
+		<id>http://www.scrollstudios.com/?p=383</id>
+		<updated>2011-09-04T13:46:48Z</updated>
+		<published>2011-09-02T13:53:37Z</published>
+		<category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="desarrollo web" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="projects-entries" /><category scheme="http://www.scrollstudios.com" term="wireframes" />		<summary type="html"><![CDATA[17 triggers no es sólo una agencia de publicidad o de marketing, es una firma consultora que ayuda a las buenas causas de un modo efectivo. "Marketing for good causes" es más que su visión – es su mantra.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/17-triggers/"><![CDATA[<p>17 Triggers fue creada por 3 socios: un experto en microfinanciamiento, una persona de marketing y un diseñador gráfico. Todos tenían alguna fustración en sus trabajos, ya fuera por el tipo de clientes o por el bloqueo de su creatividad. Creyeron que era el momento de crear juntos un enfoque diferente de marketing y fundaron 17 Triggers. Son más que una agencia de publicidad o de marketing, son una firma consultora que ayuda a las buenas causas de un modo efectivo.</p>
+<p>Ellos creen en el poder del marketing en cambio positivo. Si el marketing puede influenciar a las masas para fumar cigarrillos o comer fast food, ha de poder también inspirar a la gente a tener una vida más sana y feliz. Desde ayudar a millones de personas en la India a ahorrar más, hasta inspirar a los campesinos de Camboya a tratar su agua potable, &#8220;Marketing for good causes&#8221; es más que su visión – es su mantra.</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/17-triggers/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/17-triggers/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Nueva colección de Uclothing]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/" />
+		<id>http://www.scrollstudios.com/?p=363</id>
+		<updated>2010-11-09T16:04:53Z</updated>
+		<published>2010-11-09T15:16:51Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog-entries" /><category scheme="http://www.scrollstudios.com" term="clients" /><category scheme="http://www.scrollstudios.com" term="fashion" /><category scheme="http://www.scrollstudios.com" term="update" />		<summary type="html"><![CDATA[Acabamos de actualizar la nueva colección de la marca Uclothing, lanzada en L.A. y Londres. U es tu estilo único de cada día: Unisex, Utilitaria, Universal.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/"><![CDATA[<p>Acabamos de actualizar <a rel="nofollow" href="http://www.uclothing.com/collections/spring-summer-2011/" target="_blank">la nueva colección</a> de la marca Uclothing, lanzada en L.A. y Londres. U es tu estilo único de cada día: Unisex, Utilitaria, Universal.</p>
+<p><img class="alignnone size-full wp-image-364" title="uclothing" src="http://www.scrollstudios.com/wp-content/uploads/2010/11/uclothing.jpg" alt="" width="745" height="504" /></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Piero Martinello en Siteinpsire]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/" />
+		<id>http://www.scrollstudios.com/?p=306</id>
+		<updated>2010-09-23T17:03:56Z</updated>
+		<published>2010-09-22T16:13:31Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog-entries" /><category scheme="http://www.scrollstudios.com" term="clients" /><category scheme="http://www.scrollstudios.com" term="photography" /><category scheme="http://www.scrollstudios.com" term="showcases" />		<summary type="html"><![CDATA[Nuestra web para el fotógrafo Piero Martinello en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/"><![CDATA[<p>Nuestra web para el fotógrafo <a rel="nofollow" href="http://www.pieromartinello.com" target="_blank">Piero Martinello</a> en SiteInspire, el excelente showcase de tendencia web diseñado y desarrollado por el estudio londinense Kulor. Mirala <a rel="nofollow" href="http://siteinspire.net/showcase/view/2078/piero-martinello" target="_blank">aqui</a></p>
+<p><img class="alignnone size-full wp-image-307" title="piero-siteinspire" src="http://www.scrollstudios.com/wp-content/uploads/2010/09/piero-siteinspire.jpg" alt="" width="679" height="572" /></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/piero-martinello-en-siteinpsire/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>scroll</name>
+					</author>
+		<title type="html"><![CDATA[Laia Abril &#8211; Fotoperiodista]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/laia-abril/" />
+		<id>http://www.scrollstudios.com/?p=295</id>
+		<updated>2010-10-13T16:40:08Z</updated>
+		<published>2010-09-15T11:59:53Z</published>
+		<category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="desarrollo web" /><category scheme="http://www.scrollstudios.com" term="Diseño de interficies" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="projects-entries" /><category scheme="http://www.scrollstudios.com" term="wireframing" />		<summary type="html"><![CDATA[Con la elasticidad como meta, hicimos del site de la fotógrafa Laia Abril una web flexible, donde el contenido se adapta a la resolución y dispositivo del vistitante.
+]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/laia-abril/"><![CDATA[<p>Laia Abril es una fotoperiodista de Barcelona que vive en Treviso (Italia). Además de ser chief editor de la revista Colors en Fabrica (el prestigioso centro de comunicación de Benetton), Laia ha viajado por todo el mundo haciendo fotoreportajes. La fotógrafa quería un site en el que mostrar su trabajo con impacto y de forma muy clara. Y además que se adaptara a los diferentes recursos del visitane, quería un <strong>site elástico</strong>.<br />
+Por eso trabajamos con el concepto de elasticidad en mente y la web muestra el contenido de forma distinta <strong>según la resolución de pantalla o el dispositivo</strong> con el que esté navegando el usuario. Practicamos lo que se llama un desarrollo y diseño responsivo, adaptativo a su entorno.</p>
+<p>Teniendo en cuenta que se trata de un contenido sobretodo visual, también enriquecimos la interacción del site para dispositivos táctiles ( iPad, iPhone,etc.), haciendo que pueda navegarse entre las fotos de una galería gracias a gestos de barrido ( o swipe ).</p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/laia-abril/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/laia-abril/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>scroll</name>
+					</author>
+		<title type="html"><![CDATA[Thomas Giddings &#8211; fotógrafo de moda]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/thomas-giddings-photographer/" />
+		<id>/scrollstudios/wp-admin/admin-ajax.php?lang=es</id>
+		<updated>2010-07-19T09:39:43Z</updated>
+		<published>2010-04-19T12:53:55Z</published>
+		<category scheme="http://www.scrollstudios.com" term="CMS" /><category scheme="http://www.scrollstudios.com" term="desarrollo web" /><category scheme="http://www.scrollstudios.com" term="Diseño de interficies" /><category scheme="http://www.scrollstudios.com" term="diseño web" /><category scheme="http://www.scrollstudios.com" term="Migración de blog" /><category scheme="http://www.scrollstudios.com" term="projects-entries" /><category scheme="http://www.scrollstudios.com" term="wireframing" />		<summary type="html"><![CDATA[Thomas nos contactó porque tenía una antigua web pero no la podía actualizar fácilmente. Diseñamos y programamos una nueva web portfolio que potenciaba su trabajo.]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/thomas-giddings-photographer/"><![CDATA[<p>Thomas Giddings es un fotógrafo de moda. Ha trabajado para varios clientes del mundo de la moda, incluyendo Vogue británica y rusa, i-D, Jalouse, Topman y Mulberry. Combina esta actividad con proyectos personales y acaba de tener su segunda exposición fotográfica personal en Londres, donde reside actualmente.</p>
+<p>Después de la web de Thomas nos contactaron otros clientes del mundo de la moda. Nueva web y tienda online próximamente.. </p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/thomas-giddings-photographer/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/thomas-giddings-photographer/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name></name>
+					</author>
+		<title type="html"><![CDATA[Empezamos a trabajar en un nuevo proyecto para la interiorista Fernanda Gonzalez]]></title>
+		<link rel="alternate" type="text/html" href="http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/" />
+		<id>http://localhost:8888/scrollstudios/blog/fotografias-para-la-interiorista-fernanda-gonzalez/</id>
+		<updated>2010-05-05T12:13:42Z</updated>
+		<published>2010-04-18T19:43:26Z</published>
+		<category scheme="http://www.scrollstudios.com" term="blog-entries" /><category scheme="http://www.scrollstudios.com" term="clients" /><category scheme="http://www.scrollstudios.com" term="photography" />		<summary type="html"><![CDATA[Estamos trabajando en nuevo proyecto, se trata de la identidad visual y todo el website de la interiorista Barcelonesa Fernanda Gonzalez. Fernanda cuenta con trabajos muy variados, proyectos de interiorismo que van desde pequeñas viviendas a chalets de alto standing pasando por la decoración de grandes empresas multinacionales. Para poder desarrollar el concepto general hemos [...]]]></summary>
+		<content type="html" xml:base="http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/"><![CDATA[<p>Estamos trabajando en nuevo proyecto, se trata de la identidad visual y todo el website de la interiorista Barcelonesa Fernanda Gonzalez. Fernanda  cuenta con trabajos muy variados, proyectos de interiorismo que van desde pequeñas viviendas a chalets de alto standing pasando por la decoración de grandes empresas multinacionales.</p>
+<p>Para poder desarrollar el concepto general hemos querido comprender y conocer su trabajo, hemos realizado en la primera fase las fotografías de sus trabajos más significativos.</p>
+<p>Aquí podéis ver un par de las fotos que formaran parte de su portfolio.</p>
+<p><img class="alignnone size-full wp-image-164" title="scroll-fernanda-gonzalez" src="http://www.scrollstudios.com/wp-content/uploads/2010/04/scroll-fernanda-gonzalez.jpg" alt="" width="556" height="371" /></p>
+]]></content>
+		<link rel="replies" type="text/html" href="http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.scrollstudios.com/projects/fotografias-para-la-interiorista-fernanda-gonzalez/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

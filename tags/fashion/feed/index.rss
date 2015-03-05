@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scroll &#187; fashion</title>
+	<atom:link href="http://www.scrollstudios.com/tags/fashion/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.scrollstudios.com</link>
+	<description>Just another WordPress weblog</description>
+	<lastBuildDate>Tue, 05 Aug 2014 11:45:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<item>
+		<title>Nueva colección de Uclothing</title>
+		<link>http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/</link>
+		<comments>http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/#comments</comments>
+		<pubDate>Tue, 09 Nov 2010 15:16:51 +0000</pubDate>
+		<dc:creator></dc:creator>
+				<category><![CDATA[blog-entries]]></category>
+		<category><![CDATA[clients]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">http://www.scrollstudios.com/?p=363</guid>
+		<description><![CDATA[Acabamos de actualizar la nueva colección de la marca Uclothing, lanzada en L.A. y Londres. U es tu estilo único de cada día: Unisex, Utilitaria, Universal.]]></description>
+			<content:encoded><![CDATA[<p>Acabamos de actualizar <a rel="nofollow" href="http://www.uclothing.com/collections/spring-summer-2011/" target="_blank">la nueva colección</a> de la marca Uclothing, lanzada en L.A. y Londres. U es tu estilo único de cada día: Unisex, Utilitaria, Universal.</p>
+<p><img class="alignnone size-full wp-image-364" title="uclothing" src="http://www.scrollstudios.com/wp-content/uploads/2010/11/uclothing.jpg" alt="" width="745" height="504" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scrollstudios.com/projects/nueva-coleccion-de-uclothing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
